@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sahilpatel.password_generator">
+    package="com.example.sahil.passwordgenerator">
 
     <application
         android:allowBackup="true"
