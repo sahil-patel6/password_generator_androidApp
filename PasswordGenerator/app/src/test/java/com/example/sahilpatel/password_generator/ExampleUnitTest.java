@@ -1,4 +1,4 @@
-package com.example.sahil.passwordgenerator;
+package com.example.sahilpatel.password_generator;
 
 import org.junit.Test;
 
